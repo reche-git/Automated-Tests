@@ -1,0 +1,5 @@
+selenium npm: npm install selenium-webdriver
+
+chai npm: npm install chai
+
+mocha npm: npm install mocha
